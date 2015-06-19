@@ -1,6 +1,4 @@
-//
-// Created by m3sc4 on 15.12.15.
-//
+
 
 #include "../server_implementation/templates.h"
 #include <boost/test/unit_test.hpp>

@@ -1,6 +1,4 @@
-//
-// Created by m3sc4 on 15.12.15.
-//
+
 
 #include <boost/test/unit_test.hpp>
 #include <boost/test/included/unit_test.hpp>
