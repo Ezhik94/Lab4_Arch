@@ -1,6 +1,4 @@
-#
-# Created by Pete K. 16.05.15.
-#
+
 
 source_files ?= server_implementation/thread_implementation.cpp server_implementation/server.cpp
 headers ?= server_implementation/thread_implementation.h server_implementation/server.h server_implementation/templates.h server_implementation/asio_server.h server_implementation/morze.h

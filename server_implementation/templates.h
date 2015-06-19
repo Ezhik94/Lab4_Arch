@@ -1,6 +1,4 @@
-//
-// Created by m3sc4 on 14.05.15.
-//
+
 
 #ifndef TEMPLATES_H
 #define TEMPLATES_H

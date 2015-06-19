@@ -1,6 +1,4 @@
-//
-// Created by m3sc4 on 15.12.15.
-//
+
 
 #ifndef ASIO_H
 #define ASIO_H

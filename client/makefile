@@ -1,6 +1,4 @@
-#
-# Created by m3sc4 on 15.05.15.
-#
+
 
 executable_name ?= client
 headers = ../server_implementation/server.h ../server_implementation/templates.h
@@ -8,7 +6,7 @@ source_files = client.cpp ../server_implementation/server.cpp
 warnings ?= -Wall -Wextra -Wsign-compare -Wunused-parameter -Wunused-variable
 flags += -lpthread -std=c++11 -lboost_serialization -lboost_program_options -lboost_system
 main_file = client.cpp
-run_args = -m "Hello"
+run_args = -m "HelloFROMKVTWENONE"
 
 all : run
 

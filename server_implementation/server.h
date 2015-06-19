@@ -1,6 +1,4 @@
-//
-// Created by m3sc4 on 15.05.15.
-//
+
 
 #ifndef SERVER_H
 #define SERVER_H

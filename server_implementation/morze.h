@@ -1,6 +1,4 @@
-//
-// Created by m3sc4 on 02.06.15.
-//
+
 
 #ifndef DIJKSTRA_ALGO_H
 #define DIJKSTRA_ALGO_H

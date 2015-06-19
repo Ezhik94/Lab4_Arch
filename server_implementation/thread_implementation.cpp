@@ -1,6 +1,4 @@
-//
-// Created by m3sc4 on 15.05.15.
-//
+
 
 #include "thread_implementation.h"
 #include <sstream>
